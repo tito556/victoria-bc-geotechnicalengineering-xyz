@@ -1,0 +1,41 @@
+# Geotechnicalengineering — Victoria BC
+
+> Geotechnical engineering services in Victoria BC, Canada.
+
+## Services
+- [Anchors](https://victoria-bc.geotechnicalengineering.xyz/anchors/)
+- [Cbr Road](https://victoria-bc.geotechnicalengineering.xyz/cbr-road/)
+- [Cpt Test](https://victoria-bc.geotechnicalengineering.xyz/cpt-test/)
+- [Deep Excavations](https://victoria-bc.geotechnicalengineering.xyz/deep-excavations/)
+- [Excavation Monitoring](https://victoria-bc.geotechnicalengineering.xyz/excavation-monitoring/)
+- [Excavations](https://victoria-bc.geotechnicalengineering.xyz/excavations/)
+- [Flexible Pavement](https://victoria-bc.geotechnicalengineering.xyz/flexible-pavement/)
+- [Footings](https://victoria-bc.geotechnicalengineering.xyz/footings/)
+- [Foundations](https://victoria-bc.geotechnicalengineering.xyz/foundations/)
+- [Geophysics](https://victoria-bc.geotechnicalengineering.xyz/geophysics/)
+- [Grain Size](https://victoria-bc.geotechnicalengineering.xyz/grain-size/)
+- [Investigation](https://victoria-bc.geotechnicalengineering.xyz/investigation/)
+- [Lab In Situ](https://victoria-bc.geotechnicalengineering.xyz/lab-in-situ/)
+- [Laboratory](https://victoria-bc.geotechnicalengineering.xyz/laboratory/)
+- [Liquefaction](https://victoria-bc.geotechnicalengineering.xyz/liquefaction/)
+- [Masw](https://victoria-bc.geotechnicalengineering.xyz/masw/)
+- [Mat Foundations](https://victoria-bc.geotechnicalengineering.xyz/mat-foundations/)
+- [Piles](https://victoria-bc.geotechnicalengineering.xyz/piles/)
+- [Plate Load Test](https://victoria-bc.geotechnicalengineering.xyz/plate-load-test/)
+- [Resistivity](https://victoria-bc.geotechnicalengineering.xyz/resistivity/)
+- [Retaining Walls](https://victoria-bc.geotechnicalengineering.xyz/retaining-walls/)
+- [Rigid Pavement](https://victoria-bc.geotechnicalengineering.xyz/rigid-pavement/)
+- [Road Geotechnics](https://victoria-bc.geotechnicalengineering.xyz/road-geotechnics/)
+- [Sand Cone Density](https://victoria-bc.geotechnicalengineering.xyz/sand-cone-density/)
+- [Seismic](https://victoria-bc.geotechnicalengineering.xyz/seismic/)
+- [Slopes](https://victoria-bc.geotechnicalengineering.xyz/slopes/)
+- [Soft Ground Tunnels](https://victoria-bc.geotechnicalengineering.xyz/soft-ground-tunnels/)
+- [Spt Drilling](https://victoria-bc.geotechnicalengineering.xyz/spt-drilling/)
+- [Triaxial](https://victoria-bc.geotechnicalengineering.xyz/triaxial/)
+
+## Contact
+- Website: https://victoria-bc.geotechnicalengineering.xyz/
+
+## About
+This site provides geotechnical engineering services in Victoria BC, Canada.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
